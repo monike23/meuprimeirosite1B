@@ -1,0 +1,14 @@
+body {
+    background-color: deeppink;
+    color: black;
+    margin-bottom: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    border-bottom: solid 2px black;
+    text-align: center;
+    font-size: 32px;
+    padding: 10px;
+    background-color: honeydew;
+}
